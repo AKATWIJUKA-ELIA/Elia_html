@@ -8,7 +8,7 @@ body{
 }
 
 
-/* Navigation Bar*/
+/* Navigation Bar
 nav ul li a{
     text-decoration: none;
     
@@ -42,7 +42,7 @@ nav ul li{
 /*END OF NAV*/
 
 
-/*BUTTONS*/
+/*BUTTONS
 #right-button{
     background-color: #007bff;
     color: white;
@@ -67,6 +67,7 @@ nav ul li{
     
     background-color: blueviolet;
 }
+*/
 /* Slide show */
 .slideshow-container {
     position: relative;
@@ -167,7 +168,9 @@ img:hover-out{
     background-image: url('technology-d.jpg');
     height: 18.75rem;
 }
-
+.elia{
+    transition-duration: 2s;
+}
 
 /*END OF DIVS
 */
